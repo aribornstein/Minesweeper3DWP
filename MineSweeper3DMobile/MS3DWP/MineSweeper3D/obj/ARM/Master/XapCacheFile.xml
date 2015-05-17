@@ -1,0 +1,31 @@
+﻿<xapCache source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Bin\ARM\Master\MineSweeper3D_Master_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="1/23/2015 5:55:25 PM">
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\obj\ARM\Master\MineSweeper3D.dll" archivePath="MineSweeper3D.dll" lastWriteTime="1/23/2015 5:55:07 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="11/7/2014 12:08:00 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="11/7/2014 12:08:00 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/29/2014 11:08:52 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/29/2014 11:08:52 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/29/2014 11:08:52 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/29/2014 11:08:52 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Data\mainData" archivePath="Data\mainData" lastWriteTime="1/23/2015 5:18:46 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="11/17/2014 5:20:46 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="1/23/2015 5:18:47 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="1/23/2015 5:18:47 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Bin\ARM\Master\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/30/2014 11:38:46 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Bin\ARM\Master\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/29/2014 11:08:52 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Bin\ARM\Master\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/29/2014 11:08:52 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assembly-CSharp-firstpass.dll" archivePath="Assembly-CSharp-firstpass.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assembly-UnityScript-firstpass.dll" archivePath="Assembly-UnityScript-firstpass.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Assembly-UnityScript.dll" archivePath="Assembly-UnityScript.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Boo.Lang.dll" archivePath="Boo.Lang.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\Players\ARM\Master\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="11/18/2014 11:13:58 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\UnityEngine.UI.dll" archivePath="UnityEngine.UI.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\Players\ARM\Master\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="11/18/2014 11:24:54 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\Players\ARM\Master\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="11/18/2014 11:13:58 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="1/23/2015 5:18:57 PM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\Players\ARM\Master\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="11/18/2014 11:13:58 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\Players\ARM\Master\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="11/18/2014 11:25:04 AM" />
+  <file source="C:\Users\abornst\Desktop\MineSweeper3DMobile\MS3DWP\MineSweeper3D\Bin\ARM\Master\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="1/23/2015 5:11:20 PM" />
+</xapCache>

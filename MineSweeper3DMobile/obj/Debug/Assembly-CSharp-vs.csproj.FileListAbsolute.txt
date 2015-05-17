@@ -1,0 +1,11 @@
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\UnityEditor.dll
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\UnityEngine.dll
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\nunit.framework.dll
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\abornst\Documents\MineSweeper3D\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\abornst\Documents\MineSweeper3D\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\abornst\Documents\MineSweeper3D\obj\Debug\Assembly-CSharp.dll
+C:\Users\abornst\Documents\MineSweeper3D\obj\Debug\Assembly-CSharp.pdb

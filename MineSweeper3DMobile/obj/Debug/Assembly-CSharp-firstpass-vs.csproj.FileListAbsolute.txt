@@ -1,0 +1,12 @@
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\UnityEditor.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\UnityEngine.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\nunit.framework.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\abornst\Desktop\MineSweeper3DMobile\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\abornst\Desktop\MineSweeper3DMobile\obj\Debug\Assembly-CSharp-firstpass.pdb

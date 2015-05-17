@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeper3D", "MineSweeper3D\MineSweeper3D.csproj", "{789A204C-0024-40D4-9106-02BF0831599D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Master|ARM = Master|ARM
+		Master|x86 = Master|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789A204C-0024-40D4-9106-02BF0831599D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Debug|ARM.Build.0 = Debug|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Debug|x86.ActiveCfg = Debug|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Debug|x86.Build.0 = Debug|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Debug|x86.Deploy.0 = Debug|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Master|ARM.ActiveCfg = Master|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Master|ARM.Build.0 = Master|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Master|ARM.Deploy.0 = Master|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Master|x86.ActiveCfg = Master|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Master|x86.Build.0 = Master|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Master|x86.Deploy.0 = Master|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Release|ARM.ActiveCfg = Release|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Release|ARM.Build.0 = Release|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Release|ARM.Deploy.0 = Release|ARM
+		{789A204C-0024-40D4-9106-02BF0831599D}.Release|x86.ActiveCfg = Release|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Release|x86.Build.0 = Release|x86
+		{789A204C-0024-40D4-9106-02BF0831599D}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
